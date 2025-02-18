@@ -3,7 +3,8 @@
 ## This one is for Anyone Who is here to Learn😊😊🥳
 
 ## Objective
-Participants will build an ML model using a provided dataset.
+Participants will build an ML model using a provided Student Performance & Behavior Dataset.
+
 
 ## Steps
 
@@ -28,8 +29,8 @@ Participants will build an ML model using a provided dataset.
 
 ### Resources
 
-- **Datasets**: https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
-- **Frameworks**: Tutorials and documentation for TensorFlow and PyTorch.
+- **Datasets**: https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset
+- **Frameworks**: TensorFlow and PyTorch.
 
 
 Happy Learning! 🥳

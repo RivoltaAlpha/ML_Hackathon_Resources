@@ -22,8 +22,11 @@ Participants analyze a provided dataset to uncover insights, trends, and pattern
 - Provide a clear and concise report or presentation of your findings.
 - Include all code/scripts used for the analysis.
 
-### Contact
+- **Datasets**: https://www.kaggle.com/datasets
+- **Frameworks**: Matplotlib and Pandas or data visualization tools. 
+- **Google Colab**: https://colab.research.google.com/
 
+### Contact
 For any queries or support, please reach out to the organizers.
 
 Happy Analyzing! 🚀

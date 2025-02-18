@@ -28,7 +28,9 @@ Build an ML model from scratch using your own data.
 
 ### Resources
 
-- **Datasets**: https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
-- **Frameworks**: Tutorials and documentation for TensorFlow and PyTorch.
+- **Datasets**: https://www.kaggle.com/datasets
+- **Frameworks**: TensorFlow and PyTorch.
+- **Google Colab**: https://colab.research.google.com/
+
 
 
